@@ -1,0 +1,11 @@
+ img {
+ width: 150px;
+ }
+
+ .container{
+     display: flex;
+ }
+
+ img, container2{
+     display: inline-block;
+ }
